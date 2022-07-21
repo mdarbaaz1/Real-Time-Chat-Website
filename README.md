@@ -8,3 +8,5 @@ if the client clicks on send then i have added a evenlistener which will send th
 If a new client is joined then it shows that the new member is joined
 
 Many people can join the website at any given point of time.
+
+Prerequisits- Node.js,HTML,Javascript,CSS
