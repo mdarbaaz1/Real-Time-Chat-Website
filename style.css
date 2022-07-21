@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
+
+h1{
+    margin: 10px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.container{
+    height: 60vh;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 13px;
+    overflow-y: auto;
+}
+
+.message{
+    /* color: gray; */
+    background-color: rgb(182, 178, 178);
+    margin: 10px;
+    padding: 10px 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 30%;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+.send{
+    display: block;
+    margin: auto;
+    width: 50%;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#text{
+    width: 92%;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 30px;
+}
+
+.btn{
+   cursor: pointer;
+   border: 2px solid black;
+   border-radius: 3px;
+   height: 30px;
+}
+body{
+    height: 100vh;
+    background-image:linear-gradient(rgb(163, 226, 126) , rgb(142, 131, 238)) ;
+}
+
+
+
